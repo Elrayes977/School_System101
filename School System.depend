@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1684921529 source:e:\abdo\embedded\nti-embedded\embedded c\nti\last project\school system\main.c
+	<stdio.h>
+	"STD_TYPES.h"
+	"Config.h"
+	"School.h"
+
+1684187148 e:\abdo\embedded\nti-embedded\embedded c\nti\last project\school system\std_types.h
+
+1684186938 e:\abdo\embedded\nti-embedded\embedded c\nti\last project\school system\config.h
+
+1684910418 e:\abdo\embedded\nti-embedded\embedded c\nti\last project\school system\school.h
+
+1684921486 source:e:\abdo\embedded\nti-embedded\embedded c\nti\last project\school system\school.c
+	<stdio.h>
+	<stdlib.h>
+	"STD_TYPES.h"
+	"Config.h"
+	"School.h"
+

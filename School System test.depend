@@ -1,0 +1,144 @@
+# depslib dependency file v1.0
+1684927744 source:e:\abdo\embedded\nti-embedded\last project\school system copy\main.c
+	<stdio.h>
+	"STD_TYPES.h"
+	"Config.h"
+	"School.h"
+
+1684187148 e:\abdo\embedded\nti-embedded\last project\school system copy\std_types.h
+
+1684186938 e:\abdo\embedded\nti-embedded\last project\school system copy\config.h
+
+1684927744 e:\abdo\embedded\nti-embedded\last project\school system copy\school.h
+
+1684928716 source:e:\abdo\embedded\nti-embedded\last project\school system copy\school.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"STD_TYPES.h"
+	"Config.h"
+	"School.h"
+
+1684976948 source:f:\all emportant studies\nti-embedded\last project\school system copy\main.c
+	<stdio.h>
+	"STD_TYPES.h"
+	"Config.h"
+	"School.h"
+
+1684187148 f:\all emportant studies\nti-embedded\last project\school system copy\std_types.h
+
+1684186938 f:\all emportant studies\nti-embedded\last project\school system copy\config.h
+
+1684983097 f:\all emportant studies\nti-embedded\last project\school system copy\school.h
+
+1684983097 source:f:\all emportant studies\nti-embedded\last project\school system copy\school.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"STD_TYPES.h"
+	"Config.h"
+	"Tree.h"
+	"School.h"
+
+1684983752 f:\all emportant studies\nti-embedded\last project\school system copy\tree.h
+	"School.h"
+
+1684984047 source:f:\all emportant studies\nti-embedded\last project\school system copy\tree.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"STD_TYPES.h"
+	"Config.h"
+	"Tree.h"
+	"School.h"
+
+1684976948 source:f:\last project\school system copy\main.c
+	<stdio.h>
+	"STD_TYPES.h"
+	"Config.h"
+	"School.h"
+
+1684187148 f:\last project\school system copy\std_types.h
+
+1684186938 f:\last project\school system copy\config.h
+
+1684983097 f:\last project\school system copy\school.h
+
+1684984047 source:f:\last project\school system copy\tree.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"STD_TYPES.h"
+	"Config.h"
+	"Tree.h"
+	"School.h"
+
+1684983752 f:\last project\school system copy\tree.h
+	"School.h"
+
+1684976948 source:e:\abdo\embedded\nti-embedded\embedded c\school system copy\main.c
+	<stdio.h>
+	"STD_TYPES.h"
+	"Config.h"
+	"School.h"
+
+1684187148 e:\abdo\embedded\nti-embedded\embedded c\school system copy\std_types.h
+
+1685002382 e:\abdo\embedded\nti-embedded\embedded c\school system copy\config.h
+
+1685003098 e:\abdo\embedded\nti-embedded\embedded c\school system copy\school.h
+	"tree.h"
+
+1685007839 source:e:\abdo\embedded\nti-embedded\embedded c\school system copy\school.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"STD_TYPES.h"
+	"Config.h"
+	"Tree.h"
+	"School.h"
+
+1685002902 e:\abdo\embedded\nti-embedded\embedded c\school system copy\tree.h
+
+1685007366 source:e:\abdo\embedded\nti-embedded\embedded c\school system copy\tree.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"STD_TYPES.h"
+	"Config.h"
+	"School.h"
+	"Tree.h"
+
+1684976948 source:f:\all emportant studies\nti-embedded\embedded c\school system last version\main.c
+	<stdio.h>
+	"STD_TYPES.h"
+	"Config.h"
+	"School.h"
+
+1684187148 f:\all emportant studies\nti-embedded\embedded c\school system last version\std_types.h
+
+1685002382 f:\all emportant studies\nti-embedded\embedded c\school system last version\config.h
+
+1685003098 f:\all emportant studies\nti-embedded\embedded c\school system last version\school.h
+	"tree.h"
+
+1685002902 f:\all emportant studies\nti-embedded\embedded c\school system last version\tree.h
+
+1685007366 source:f:\all emportant studies\nti-embedded\embedded c\school system last version\tree.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"STD_TYPES.h"
+	"Config.h"
+	"School.h"
+	"Tree.h"
+
+1685013379 source:f:\all emportant studies\nti-embedded\embedded c\school system last version\school.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"STD_TYPES.h"
+	"Config.h"
+	"Tree.h"
+	"School.h"
+
